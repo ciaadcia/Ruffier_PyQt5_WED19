@@ -9,7 +9,11 @@ About : Tes Ruffier membantu pengguna menilai keadaan sistem kardiovaskular tubu
 | final_win.py    | Halaman untuk **perhitungan hasil** dan analisis Heart Check / Ruffier Index |
 
 DAY 1
+
 File my_app.py : sultan
+
 File instr.py : raihan
+
 File second_win.py : hafidz
+
 File final_win.py : hafidz
