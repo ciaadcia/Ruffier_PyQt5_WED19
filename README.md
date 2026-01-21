@@ -1,4 +1,4 @@
-# HeartCheck
+#RUFFIER TES
 About : Tes Ruffier membantu pengguna menilai keadaan sistem kardiovaskular tubuh mereka. Ini dirancang untuk memantau kinerja jantung selama aktivitas fisik dan mengevaluasi efektivitas kinerja tersebut.
 
 | Name            | Content |
@@ -8,3 +8,8 @@ About : Tes Ruffier membantu pengguna menilai keadaan sistem kardiovaskular tubu
 | second_win.py   | Halaman untuk **timer** (penghitungan waktu selama tes Ruffier) |
 | final_win.py    | Halaman untuk **perhitungan hasil** dan analisis Heart Check / Ruffier Index |
 
+DAY 1
+File my_app.py : sultan
+File instr.py : raihan
+File second_win.py : hafidz
+File final_win.py : hafidz
