@@ -22,3 +22,11 @@ DAY 1
 | instr.py        | raihan |
 | second_win.py   | hafidz |
 | final_win.py    | hafidz |
+
+DAY 2
+| File            | Name |
+|-----------------|---------|
+| my_app.py       | sultan |
+| instr.py        | raihan |
+| second_win.py   | hafidz |
+| final_win.py    | raihan |
